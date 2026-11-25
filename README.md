@@ -3,7 +3,7 @@
 A small web application for managing the records of a local mosque, built with **PHP** and **PostgreSQL**.
 It was made for the course **Database Management Systems Lab (CSE 2367)** at Northern University Bangladesh.
 
-![Masjid Management System banner](images/pic4.jpg)
+![Masjid Management System banner](images/pic1.png)
 
 > To show your own screenshot here, save it as `images/screenshot.png` and add this line:
 > `![Screenshot](images/screenshot.png)`
